@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactNetflixStudy/static/css/main.d9e14fa6.css",
+    "main.js": "/ReactNetflixStudy/static/js/main.10bfcba3.js",
+    "static/js/453.4d78b4ad.chunk.js": "/ReactNetflixStudy/static/js/453.4d78b4ad.chunk.js",
+    "index.html": "/ReactNetflixStudy/index.html",
+    "main.d9e14fa6.css.map": "/ReactNetflixStudy/static/css/main.d9e14fa6.css.map",
+    "main.10bfcba3.js.map": "/ReactNetflixStudy/static/js/main.10bfcba3.js.map",
+    "453.4d78b4ad.chunk.js.map": "/ReactNetflixStudy/static/js/453.4d78b4ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e14fa6.css",
+    "static/js/main.10bfcba3.js"
+  ]
+}
